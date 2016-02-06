@@ -1,0 +1,5 @@
+Start
+chrome-extension://fkkiamalmpiidkljmicmjfbieiclmeij/chromeiql.html?query=query%7B%0A%20%20root%20%7B%0A%20%20%20%20user%20%7B%0A%20%20%20%20%20%20id%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A
+
+Finished
+chrome-extension://fkkiamalmpiidkljmicmjfbieiclmeij/chromeiql.html?query=query%7B%0A%20%20root%20%7B%0A%20%20%20%20user%20%7B%0A%20%20%20%20%20%20id%2C%0A%20%20%20%20%20%20firstName%2C%0A%20%20%20%20%20%20lastName%2C%0A%20%20%20%20%20%20events%20%7B%0A%20%20%20%20%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20name%0A%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20availableEvents%20%7B%0A%20%20%20%20%20%20description%0A%20%20%20%20%20%20date%2C%0A%20%20%20%20%20%20name%2C%0A%20%20%20%20%20%20userIsAttending%20%20%20%20%20%20%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A
